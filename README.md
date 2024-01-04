@@ -8,7 +8,7 @@ Hi 👋 I am Khoi, first data scientist at Neuroo (France).
 - Smoke Detection
 - Vehicle/Person Counting
 - etc.
-##### Example: https://neuroo.ai/fr/
+##### Example: https://en.neuroo.ai/
 
 #### Technical Skills
 ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
