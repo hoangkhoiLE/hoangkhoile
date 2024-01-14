@@ -4,7 +4,7 @@
 Hi 👋 I am Khoi, first data scientist at Neuroo (France). 
 
 #### Some of my experiences with Neuroo
-- Analysis of a person's direction/behaviors (such as falling persons, marauders, abandoned baggage, etc).
+- Analysis of a person's direction/behaviors (such as falling persons, marauders, abandoned baggage, panic detection, etc).
 - Smoke Detection
 - Vehicle Counting by category, Wrong-way driving detection (by lane/direction/carpool)
 - etc.
