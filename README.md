@@ -1,14 +1,20 @@
 # Khoi - Data Scientist in Computer Vision
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khoi-blue?logo=linkedin)](https://www.linkedin.com/in/hoang-khoi-le-815713195/)
 
-Hi 👋 I am Khoi, first data scientist at Neuroo (France). 
+About me  
+"Data Scientist specializing in Computer Vision with a Master's degree. With over 4 years of experience, I am passionate and successful in delivering AI solutions that perform well in real-time and real-life problems." 
 
 #### Some of my experiences with Neuroo
 - Analysis of a person's direction/behaviors (such as falling persons, marauders, abandoned baggage, panic detection, etc).
 - Smoke Detection
 - Vehicle Counting by category, Wrong-way driving detection (by lane/direction/carpool)
 - etc.
-##### Example: https://en.neuroo.ai/
+#### Some of my experiences with ArcelorMittal
+- Sawtooth quality assessment
+- Steel surface defect detection
+- Softening event detection
+- etc.
+
 
 #### Technical Skills
 ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
